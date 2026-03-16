@@ -1,0 +1,2 @@
+# Trained models (e.g. build_failure_model.pkl) go here.
+# Add *.pkl to .gitignore if you don't want to commit large binaries.

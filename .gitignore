@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.Python
+*.pkl
+models/*.pkl
+reports/*.png
+.DS_Store
+
+19314170/
+data/processed/
+data/raw/
